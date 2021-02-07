@@ -7,7 +7,7 @@ import os
 
 
 
-TOKEN = "ODA3OTQ5MDE1Mjk0NjcyOTQ2.YB_bKA.XVja2MI27JD5Soso6dfTgaDL9Bs"
+TOKEN = "ODA3OTQ5MDE1Mjk0NjcyOTQ2.YB_bKA.VoqRTRRkaUcRIlvWSpcQbOLD3rI"
 client = commands.Bot(command_prefix = "!")
 
 
